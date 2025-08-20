@@ -14,6 +14,7 @@ The goal is to document my learning journey step by step and provide practical e
 
 ### Beginner-Level Projects
 - **Accounts & Delivery Department Network Design**
+- **XYZ Company Branch Network Design** - Standalone network infrastructure with VLAN segmentation, inter-VLAN routing, DHCP services, and wireless integration
 
 ---
 
@@ -31,7 +32,11 @@ Projects will be added **sequentially**, building on the knowledge gained from e
 
 ## 🛠️ Tools & Technologies
 - Cisco Packet Tracer  
+- Cisco IOS Configuration (Routers & Switches)
 - Networking Fundamentals (IP addressing, subnetting, routing, switching)  
+- VLAN Implementation & Management
+- DHCP Server Configuration
+- Wireless Network Integration
 - Security Concepts (ACLs, firewalls, device hardening)  
 
 ---
