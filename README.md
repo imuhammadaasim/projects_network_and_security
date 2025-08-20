@@ -1,31 +1,42 @@
 # Projects in Networking & Security
 
-## Overview
+## 📌 Overview
 This repository contains hands-on projects and labs related to **computer networking and security**.  
-Each project demonstrates key networking concepts using **Cisco Packet Tracer**, as well as basic security practices to strengthen network infrastructure.  
+The projects are designed in a **progressive manner**:  
+- Starting with **foundational concepts** such as subnetting, IP addressing, and simple LAN connectivity.  
+- Gradually moving toward **advanced networking and security implementations** such as routing protocols, ACLs, firewalls, and security hardening.  
 
-The goal is to document my learning journey and provide practical examples for others exploring **networking and cybersecurity**.  
-
----
-
-## Projects Included
-- **Accounts & Delivery Department Network Design**  
-  - Subnetting a /24 network into two subnets  
-  - Connecting departments using router-on-a-stick  
-  - Verifying inter-department connectivity  
-
-*(More projects will be added soon...)*
+The goal is to document my learning journey step by step and provide practical examples for others exploring **networking and cybersecurity**.  
 
 ---
 
-## Tools & Technologies
+## 📂 Projects Included
+
+### Beginner-Level Projects
+- **Accounts & Delivery Department Network Design**
+
+---
+
+### Upcoming (Advanced) Projects
+As the repository grows, more advanced topics will be covered, including:  
+- Access Control Lists (ACLs) for traffic filtering  
+- Dynamic routing protocols (OSPF, EIGRP)  
+- VLANs and Inter-VLAN routing  
+- Firewall configurations & network security policies  
+- VPN and secure remote access labs  
+
+Projects will be added **sequentially**, building on the knowledge gained from earlier labs.  
+
+---
+
+## 🛠️ Tools & Technologies
 - Cisco Packet Tracer  
 - Networking Fundamentals (IP addressing, subnetting, routing, switching)  
-- Basic Security Concepts (ACLs, firewalls, device hardening)  
+- Security Concepts (ACLs, firewalls, device hardening)  
 
 ---
 
-## How to Use
+## 🚀 How to Use
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/<your-username>/projects_network_and_security.git
+   git clone https://github.com/imuhammadaasim/projects_network_and_security.git
