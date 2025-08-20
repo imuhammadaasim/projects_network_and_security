@@ -13,8 +13,8 @@ The goal is to document my learning journey step by step and provide practical e
 ## 📂 Projects Included
 
 ### Beginner-Level Projects
-- **01. Accounts & Delivery Department Network Design** - Basic two-subnet office network with inter-department routing
-- **02. XYZ Company Branch Network Design** - Standalone network infrastructure with VLAN segmentation, inter-VLAN routing, DHCP services, and wireless integration
+**01. Accounts & Delivery Department Network Design** - Basic two-subnet office network with inter-department routing
+**02. XYZ Company Branch Network Design** - Standalone network infrastructure with VLAN segmentation, inter-VLAN routing, DHCP services, and wireless integration
 
 ---
 
